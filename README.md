@@ -23,7 +23,7 @@ This project aims to create a real-time system that generates context-aware desc
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/intelligent-scene-description.git
+   git clone https://github.com/mvvr/intelligent_scene_description.git
    cd intelligent-scene-description
    ```
 
